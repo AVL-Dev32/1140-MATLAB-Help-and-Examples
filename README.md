@@ -18,4 +18,4 @@ This repo will continue to update throughout the semester as I learn more about 
 If there is something that is confusing in the scripts or that isn't well defined, let me know and I'll try to fix it - same with bugs.
 
 ## Notice
-Read the license for information about usage and liability with regards to how this repo is used, distributed, and manipulated.
+Read the [license](/LICENSE) for information about usage and liability with regards to how this repo is used, distributed, and manipulated.
