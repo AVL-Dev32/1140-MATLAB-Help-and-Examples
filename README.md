@@ -10,7 +10,7 @@ The purpose of this repo is to consolidate relevant and helpful information abou
 
 ## How to Use
 **Notice, this is only tested with MATLAB R2024a. Not guaranteed to work on any other version.**  
-Download the entire repo to somewhere convenient. From there, open the .m files through MATLAB.  
+Download the entire repo to somewhere convenient. Create a new folder in your MATLAB folder (wherever you've put it) and call it "Example Workspace," this is where you will put all of the example scripts (.m) provided in this repo. This is important to do because some connections will break if they are not in the same directory. Make sure to make your own workspaces per project.  
 
 Generally, all the scripts come as is, but it would do you personal good by modifying them, reading them, and trying to recreate them. Importantly, ';' suppresses commands from appearing in the console. This is helpful for keeping the workspace clean, but it may hide processes that you might find informative. Try removing suppressions where confused.
 
